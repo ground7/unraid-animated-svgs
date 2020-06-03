@@ -1,7 +1,7 @@
 # Animated Docker Folder Icons for Unraid
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/eye.svg" width="100" height="100">
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/eye.svg" width="100" height="100">]()[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/audio.svg" width="100" height="100">]()[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/backup.svg" width="100" height="100">]()[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/cloud.svg" width="100" height="100">]()
 
 ### Requests
 I am currently taking requests for icons to be animated. If you'd like me to animate an svg icon fill out the following issue template
