@@ -1,6 +1,7 @@
-### Animated Docker Folder Icons for Unraid
+# Animated Docker Folder Icons for Unraid
 
-By default all icons are animated on hover. To make them animate all the time, please remove the pointer event.
+### Preview
+<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/eye.svg" width="100" height="100">
 
 ### Requests
 I am currently taking requests for icons to be animated. If you'd like me to animate an svg icon fill out the following issue template
