@@ -1,0 +1,10 @@
+plugins:
+  - removeXMLNS
+  - cleanupListOfValues
+  - sortAttrs
+  - prefixIds: false
+  - inlineStyles: false
+
+js2svg:
+  pretty: true
+  indent: 2
