@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="settings" viewBox="0 0 769 769" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1">
   <style id="spin">
-    @keyframes gear_animation__tr{0%{transform:translate(299.00188px,673.181962px) rotate(0deg)}to{transform:translate(299.00188px,673.181962px) rotate(360deg)}}#settings{pointer-events:all}#settings *{animation-play-state:paused!important}#settings:hover *{animation-play-state:running!important}#gear_animation{animation:gear_animation__tr 3000ms linear infinite normal forwards}
+    @keyframes gear_animation__tr{0%{transform:translate(299.00188px,673.181962px) rotate(0deg)}to{transform:translate(299.00188px,673.181962px) rotate(360deg)}}#gear_animation{animation:gear_animation__tr 3000ms linear infinite normal forwards}
   </style>
   <g id="background" transform="matrix(4 0 0 4 -806.006 -2320.4)">
     <path id="square" d="M393.75 676.01v72.19c0 11.03-8.32 21.11-19.18 23.18-1.61.31-3.27.48-4.9.48-47.97.03-95.93.02-143.9.02-11.76 0-22.02-9.02-23.56-20.72a23.27 23.27 0 01-.23-3.12c-.01-48.09-.01-96.18-.01-144.26 0-11.03 8.32-21.12 19.18-23.18 1.61-.31 3.27-.48 4.9-.48 48.01-.02 96.02-.02 144.02-.02 11.03 0 21.13 8.33 23.18 19.18.3 1.61.48 3.27.48 4.9.03 23.94.02 47.89.02 71.83z" fill="#F3632D" stroke="none" stroke-width="1"/>
