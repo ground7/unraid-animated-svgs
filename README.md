@@ -31,4 +31,3 @@ File: <attach a zip file with the svg>
 Please check if there's already a satisfactory icon covering the category. If you don't like it, you can still suggest another one.
 
 In addition, I'm only animating svgs. Making them from scratch can be a decent amount of work too, so please make the actual svg yourself. Make sure to layer the svg appropriately if the animation requires it. Svgs can be created pretty easily with the free tool inkscape, and they are often an export option on image editors. Some websites can convert to them as well with varying degrees of success. [Hernadito](https://github.com/hernandito) is also taking requests on the [Unraid forum](https://forums.unraid.net/topic/92824-icon-collections-for-docker-folder-plugin/).
-
