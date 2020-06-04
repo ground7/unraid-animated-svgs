@@ -4,6 +4,7 @@ plugins:
   - sortAttrs
   - prefixIds: false
   - inlineStyles: false
+  - removeHiddenElems: false
 
 js2svg:
   pretty: true
