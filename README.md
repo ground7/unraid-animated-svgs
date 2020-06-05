@@ -3,9 +3,12 @@
 ### Preview
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/audio.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/backup.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/binoculars.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/cloud.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/code.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/control.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/dash.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/database.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/downloads.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/eye.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/gaming.svg" width="100" height="100">]()
