@@ -1,4 +1,4 @@
-<svg id="productivity" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 769" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<svg id="productivity" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 769" width="500" height="500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
   <style>
     @keyframes minute_hand_animation__tr{0%{transform:translate(318.98px,682.16px) rotate(0deg)}to{transform:translate(318.98px,682.16px) rotate(21600deg)}}@keyframes hour_hand_animation__tr{0%{transform:translate(318.98px,682.16px) rotate(0deg)}to{transform:translate(318.98px,682.16px) rotate(360deg)}}#productivity{pointer-events:all}#productivity *{animation-play-state:paused!important}#productivity:hover *{animation-play-state:running!important}#minute_hand_animation{animation:minute_hand_animation__tr 30000ms linear infinite normal forwards}#hour_hand_animation{animation:hour_hand_animation__tr 30000ms linear infinite normal forwards}
   </style>
