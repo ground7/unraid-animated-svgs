@@ -13,9 +13,12 @@
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/home-wifi.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/music.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/nzb.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/pirate.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/plex.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/search.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/security.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/settings.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/ship.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/torrent.svg" width="100" height="100">]()
 
 ### Requests
