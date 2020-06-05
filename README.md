@@ -24,6 +24,7 @@
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/settings.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/ship.svg" width="100" height="100">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/torrent.svg" width="100" height="100">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/vpn.svg" width="100" height="100">]()
 
 ### Requests
 I am currently taking requests for icons to be animated. If you'd like me to animate an svg icon fill out the following issue template
