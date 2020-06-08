@@ -8,6 +8,7 @@
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/database.svg" width="80" height="80">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/eye.svg" width="80" height="80">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/home-wifi.svg" width="80" height="80">]()
+[<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/multimedia-alternate.svg" width="80" height="80">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/vpn.svg" width="80" height="80">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/world.svg" width="80" height="80">]()
 [<img src="https://raw.githubusercontent.com/ground7/unraid-animated-svgs/master/Always%20Animate/control.svg" width="80" height="80">]()
